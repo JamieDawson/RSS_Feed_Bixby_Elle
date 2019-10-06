@@ -1,5 +1,5 @@
 capsule {
-  id (playground.rss_template)
+  id (jamie_dawson.style_now)
   version (1.0.1)
   format (3)
   targets {
@@ -15,7 +15,6 @@ capsule {
   }
   store-sections {
     section (NewsAndMagazines)
-    section (Sports)
   }
   capsule-imports {
     import (viv.image) { as (image) version (2.12.10) }
