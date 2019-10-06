@@ -16,6 +16,7 @@ function removeHTML(str) {
 	for (var i = 0; i < HTMLCODES.length; i++)
 		while (str.includes(HTMLCODES[i].key))
 			str = str.replace(HTMLCODES[i].key, HTMLCODES[i].value)
+	str = str.split('Related:')[0] //popsugar has weird results.
 	return str
 }
 
