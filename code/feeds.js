@@ -6,19 +6,19 @@ module.exports = module.exports = [
   {
     url: 'https://www.elle.com/rss/all.xml/',
     urlText: 'Click here to see the full story on elle.com',
-    text: 'elle',
-    tags: ['fashion']
+    text: 'Elle',
+    tags: ['elle', "l", "ell", "L", "el"]
   },
   {
     url: 'https://www.wmagazine.com/feed/rss',
     urlText: 'Click here to see the full story on wmagazine.com',
-    text: 'wmagazine',
-    tags: ['fashion']
+    text: 'WMagazine',
+    tags: ['wmagazine', 'w magazine', "W Magazine"]
   },
   {
     url: 'https://www.popsugar.com/fashion/feed',
     urlText: 'Click here to see the full story on wmagazine.com',
-    text: 'popsugar',
-    tags: ['fashion']
+    text: 'PopSugar',
+    tags: ['popsugar', 'pop sugar', "PopSugar"]
   },
 ]
