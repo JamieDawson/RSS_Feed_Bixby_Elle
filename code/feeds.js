@@ -9,16 +9,4 @@ module.exports = module.exports = [
     text: 'Elle',
     tags: ['elle', "l", "ell", "L", "el"]
   },
-  {
-    url: 'https://www.wmagazine.com/feed/rss',
-    urlText: 'Click here to see the full story on wmagazine.com',
-    text: 'WMagazine',
-    tags: ['wmagazine', 'w magazine', "W Magazine"]
-  },
-  {
-    url: 'https://www.popsugar.com/fashion/feed',
-    urlText: 'Click here to see the full story on wmagazine.com',
-    text: 'PopSugar',
-    tags: ['popsugar', 'pop sugar', "PopSugar"]
-  },
 ]

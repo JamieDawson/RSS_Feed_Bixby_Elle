@@ -1,9 +1,9 @@
 capsule-info {
-  display-name (Style Now)
-  dispatch-name (Style Now)
-  developer-name (Jamie Dawson)
+  display-name (unofficial Elle)
+  dispatch-name (unofficial Elle)
+  developer-name ()
   icon-asset (icon.png)
-  description (Style Now is a Capsule for reading the latest news for fashion and celebrities (Elle, WMagazine, and PopSugar). All content is sourced from public RSS Feeds. Sources: https://www.elle.com/rss/all.xml/, https://www.wmagazine.com/feed/rss, https://www.popsugar.com/fashion/feed)
+  description (unofficial Elle brings the latest fashion news from Elle. All content is sourced from public RSS Feeds. Sources: https://www.elle.com/rss/all.xml/)
   search-keywords {
     keyword (News)
     keyword (RSS)
