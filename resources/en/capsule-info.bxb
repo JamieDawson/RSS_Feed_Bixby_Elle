@@ -1,9 +1,9 @@
 capsule-info {
-  display-name (unofficial Elle)
-  dispatch-name (unofficial Elle)
-  developer-name ()
+  display-name (Unofficial Elle)
+  dispatch-name (Unofficial Elle)
+  developer-name (Unofficial Elle News)
   icon-asset (icon.png)
-  description (unofficial Elle brings the latest fashion news from Elle. All content is sourced from public RSS Feeds. Sources: https://www.elle.com/rss/all.xml/)
+  description ("Unofficial Elle is a Capsule for letting users read the Elle RSS feed. \n All content is sourced from the public Elle RSS feed. Sources: https://www.elle.com/rss/all.xml/")
   search-keywords {
     keyword (News)
     keyword (RSS)
