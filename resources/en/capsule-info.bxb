@@ -3,10 +3,14 @@ capsule-info {
   dispatch-name (Unofficial Elle)
   developer-name (Unofficial Elle News)
   icon-asset (icon.png)
-  description ("Unofficial Elle is a Capsule for letting users read the Elle RSS feed. \n All content is sourced from the public Elle RSS feed. Sources: https://www.elle.com/rss/all.xml/")
+  description ("Unofficial Elle is a Capsule for letting users read the public Elle RSS feed. \n All content is sourced from the public Elle RSS feed. Sources: https://www.elle.com/rss/all.xml/")
   search-keywords {
     keyword (News)
     keyword (RSS)
     keyword (Fashion)
+  } 
+
+  dispatch-aliases{
+    alias (Unofficial l) //I'm doing this because of an ASR issue.
   }
 }
