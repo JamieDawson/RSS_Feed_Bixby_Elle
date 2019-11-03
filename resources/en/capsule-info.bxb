@@ -1,7 +1,7 @@
 capsule-info {
-  display-name (Unofficial L News)
-  dispatch-name (Unofficial L News)
-  developer-name (Unofficial L News)
+  display-name (Unofficial L)
+  dispatch-name (Unofficial L)
+  developer-name (Unofficial L)
   icon-asset (icon.png)
   description ("Unofficial L is a Capsule for letting users read the public Elle RSS feed. \n All content is sourced from the public Elle RSS feed. Sources: https://www.elle.com/rss/all.xml/")
   search-keywords {
