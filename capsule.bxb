@@ -1,6 +1,6 @@
 capsule {
-	id (playground.rss_template)
-	version (1.0.0)
+	id (unofficial_elle.unofficial_elle_news)
+	version (1.0.2)
 	format (3)
 	targets {
 		target (bixby-mobile-en-US)
