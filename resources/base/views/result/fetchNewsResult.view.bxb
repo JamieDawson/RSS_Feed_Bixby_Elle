@@ -34,6 +34,7 @@ result-view {
 									spoken-summary ("The #{value(this.place)} one #{value(this.title)} ...")
 									thumbnail-card {
 										image-url("#{value(this.image.url)}")
+										image-object-fit (Contain)
 										title-area {
 											slot1 {
 												text {
